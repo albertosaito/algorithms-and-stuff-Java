@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author <a href="mailto:nobuji.saito@24hourfit.com">nobuji.saito</a>
+ * @author <a href="mailto:nobuji.saito@gmail.com">nobuji.saito</a>
  * @version $Id$
  * @since Jul 24, 2015
  *

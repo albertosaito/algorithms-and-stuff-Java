@@ -1,12 +1,9 @@
-/*
- * Copyright 2000 - 2015 24 Hour Fitness. All rights reserved.
- */
 package com.alberto.tinkering.algorithms;
 
 
 /**
  *
- * @author <a href="mailto:nobuji.saito@24hourfit.com">nobuji.saito</a>
+ * @author <a href="mailto:nobuji.saito@gmail.com">nobuji.saito</a>
  * @version $Id$
  * @since Jul 24, 2015
  *
