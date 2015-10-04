@@ -7,3 +7,4 @@
 - Powers of 2
 - Rotate Array, N-Memory
 - Trap Water Problem
+- Swap two integers without using auxiliar variable
