@@ -8,3 +8,4 @@
 - Rotate Array, N-Memory
 - Trap Water Problem
 - Swap two integers without using auxiliar variable
+- 0/1 Knapsack problem using DP
