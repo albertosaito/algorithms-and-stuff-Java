@@ -1,8 +1,6 @@
 package com.alberto.tinkering.algorithms;
 
 
-import org.joda.time.LocalTime;
-
 import java.util.Arrays;
 
 
@@ -83,16 +81,14 @@ public class RotateArray
     */
    public static void main (final String args[])
    {
-      System.out.println (new LocalTime ());
-      final int[] array = new int[100000];
-      for (int i = 1; i <= 100000; i++)
+      final int[] array = new int[100];
+      for (int i = 1; i <= 100; i++)
       {
          array[i - 1] = i;
       }
       System.out.println ("Original: " + Arrays.toString (array));
-      rotate (array, 2);
-      System.out.println ("Rotated+2: " + Arrays.toString (array));
-      System.out.println (new LocalTime ());
+      rotate (array, 24);
+      System.out.println ("Rotated+24: " + Arrays.toString (array));
    }
 
 
