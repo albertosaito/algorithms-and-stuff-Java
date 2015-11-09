@@ -1,4 +1,4 @@
-package com.alberto.tinkering.concurrent;
+package alberto.examples.concurrent;
 
 
 import java.util.concurrent.Callable;

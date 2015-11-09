@@ -1,4 +1,4 @@
-package com.alberto.tinkering.algorithms;
+package alberto.examples.algorithms;
 
 import java.util.ArrayList;
 import java.util.List;
